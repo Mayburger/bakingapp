@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="errorImageViewLargeWidth">200dp</dimen>
+    <dimen name="errorImageViewLargeHeight">200dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="text_size_cake_name">24sp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <string name="app_name">Bake</string>
+    <string name="error">Please check your internet</string>
+    <string name="steps">Steps</string>
+    <string name="cake">Cakes</string>
+    <string name="servings">10</string>
+</resources>
